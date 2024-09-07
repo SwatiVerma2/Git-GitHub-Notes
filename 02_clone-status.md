@@ -52,3 +52,6 @@ Make few changes in the file in vs code then save it. It will show the files wit
    
 ![image](https://github.com/user-attachments/assets/e777feee-4d72-4d2c-b118-169b97e2b96b)
 
+- Your branch is ahead of ‘origin/main’ by 1 commit means that your local branch has one commit that exists locally but hasn't been synchronized with the remote repository yet.
+
+

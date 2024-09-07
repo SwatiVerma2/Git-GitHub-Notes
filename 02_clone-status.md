@@ -31,6 +31,7 @@ Example:  Make few changes in the file in vs code then save it. It will show the
 - If you have modified the file in your local system then we need to add and commit.
 - When files are added, the status is changed to staged
 - Commit : status  -> unchanged
+  
 ![image](https://github.com/user-attachments/assets/30ab54a0-78b8-4573-b9ba-2e9720ceb992)
 
 1. Modified:

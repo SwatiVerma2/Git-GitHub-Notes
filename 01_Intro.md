@@ -9,7 +9,7 @@
 - Git is a distributed version control system used to track changes in files and coordinate work on those files among multiple people. 
 - It was created by Linus Torvalds in 2005 for the development of the Linux kernel and has since become the most widely used version control system in software development.
 
-### Key reasons for Git's popularity:
+**Key reasons for Git's popularity**
 
 1. **Version Control**: Git is primarily used for version control, allowing developers to track changes to their codebase over time. This enables them to revert to previous versions, compare changes, and maintain a history of all modifications.
 
@@ -26,7 +26,6 @@
 7. **Open Source Contribution**: Many open-source projects use Git for managing their source code repositories. Contributors can fork the project, make changes, and submit pull requests to contribute to the project.
 
 8. **Tracking Changes in Documents**: Although Git is primarily used for code, it can also be used to track changes in other types of documents (e.g., documentation, configuration files) that benefit from version control.
-
 
 ## Installation for windows users
 
@@ -48,4 +47,4 @@
 - Global: Global configuration settings are applied to all repositories on your system 
 - Local: Local configuration settings are specific to a particular Git repository. Settings in the local configuration override settings in the global configuration for that specific repository.
 
-   `code . ` on terminal will open VS Code
+`code . ` on terminal will open VS Code

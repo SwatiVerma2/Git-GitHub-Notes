@@ -44,5 +44,3 @@
    - If you have modified the file in your local system then we need to add and commit.
    - When files are added, the status is changed to staged
    - Commit : status  -> unchanged
-
-

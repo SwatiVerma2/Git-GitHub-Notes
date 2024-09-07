@@ -4,8 +4,8 @@
 - This copy allows you to freely experiment with changes without affecting the original project. 
 - After making changes in your fork, you can propose these changes to be merged back into the original repository through a pull request. 
 - Forking is commonly used in open-source projects where contributors want to work on features or fixes independently before merging them into the main project.
-
-**Key Concepts:**
+  
+### Key Concepts:
 
 - Forking: Creating a copy of a repository under your GitHub account. This copy is completely independent of the original repository, allowing you to make changes without affecting the original project.
 

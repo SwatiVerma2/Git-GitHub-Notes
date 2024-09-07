@@ -26,13 +26,15 @@ To show the current state of the working directory and the staging area. : `git 
 - Untracked files: Files that are new and haven't been added to version control yet.
 - No changes / Unmodified: If everything is up to date and there are no modifications, it will show a message that the working tree is clean.
 
-Example:  Make few changes in the file in vs code then save it. It will show the files with yellow ‘M’ symbol which means modified.
+### Example: 
+
+Make few changes in the file in vs code then save it. It will show the files with yellow ‘M’ symbol which means modified.
+
+![image](https://github.com/user-attachments/assets/30ab54a0-78b8-4573-b9ba-2e9720ceb992)
 
 - If you have modified the file in your local system then we need to add and commit.
 - When files are added, the status is changed to staged
 - Commit : status  -> unchanged
-  
-![image](https://github.com/user-attachments/assets/30ab54a0-78b8-4573-b9ba-2e9720ceb992)
 
 1. Modified:
    

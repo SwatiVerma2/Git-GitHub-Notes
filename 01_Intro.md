@@ -2,8 +2,7 @@
 
 - GitHub is a web-based platform built on top of Git, a version control system, that allows developers to store, manage, and collaborate on code. 
 - It provides a centralized space where developers can host repositories, track changes, and collaborate with others through features like pull requests, issues, and project boards.
-
- Create an account on github > create a new repository(repo) > add a readme file > commit changes
+- Create an account on github > create a new repository(repo) > add a readme file > commit changes
 
 # Git
 

@@ -32,8 +32,12 @@ Example:  Make few changes in the file in vs code then save it. It will show the
 
 Modified:
    
-![image](https://github.com/user-attachments/assets/23670fb0-5969-45dd-a5d3-0016da720015)
-   
+ ![image](https://github.com/user-attachments/assets/23670fb0-5969-45dd-a5d3-0016da720015)
+
+Changes to be committed / Staged:
+
+ ![image](https://github.com/user-attachments/assets/98816192-a4e3-45dc-afd4-afc7c804b8c4)
+
 If we add a new file → untracked:
 
 ![image](https://github.com/user-attachments/assets/ddd2e2f2-fd5a-4801-a7a8-6a8f802dcd76)
@@ -41,3 +45,6 @@ If we add a new file → untracked:
 - If you have modified the file in your local system then we need to add and commit.
 - When files are added, the status is changed to staged
 - Commit : status  -> unchanged
+
+![image](https://github.com/user-attachments/assets/e777feee-4d72-4d2c-b118-169b97e2b96b)
+

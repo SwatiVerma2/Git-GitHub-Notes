@@ -11,7 +11,7 @@ To clone a repository on our local machine : `git clone <- some link ->`
 -   The local repository is the version of the Git repository that exists on your own computer.
 -   The remote repository is a version of the repository hosted on a server, such as GitHub, GitLab, or Bitbucket.
 
-## Checking urrent status
+## Checking current status
 To show the current state of the working directory and the staging area. : `git status`
 
 ### Staging area

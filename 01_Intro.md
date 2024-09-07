@@ -40,6 +40,7 @@
 `git config -- global user.email "your-mail-id"`
 
 `git config -- list`
+
 ~ → root directory
 
 ![image](https://github.com/user-attachments/assets/6a483cdb-6697-416b-897f-542addd77a1e)

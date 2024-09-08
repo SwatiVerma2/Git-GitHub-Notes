@@ -13,14 +13,16 @@
 ###  How to create a Pull Request 
 
 - If you want to merge the code of your branch with the main branch, create a pull request.
+  
+- Click on `Compare and pull request` 
 
 ![image](https://github.com/user-attachments/assets/4c760e7a-71fe-4a23-ba64-ab664ba495fe)
 
-- Click on `Compare and pull request` 
+- Create pull request 
 
 ![image](https://github.com/user-attachments/assets/aa759b40-1df9-4d2a-94e4-e1a3f66e55bc)
 
-- Create pull request > merge pull request
+- Merge pull request
 
 ![image](https://github.com/user-attachments/assets/de487e04-95fd-4301-aa35-b07b5c5af48d)
 

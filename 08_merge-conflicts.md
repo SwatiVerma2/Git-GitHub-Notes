@@ -10,7 +10,7 @@
   
   ![image](https://github.com/user-attachments/assets/561174a9-97b9-4f2f-9460-bfe024443a2c)
   
-- Merge conflict
+- Merge conflict occured
   
   ![image](https://github.com/user-attachments/assets/a36d15b3-fbf2-4643-aac1-d1a4bf89dba9)
 
@@ -20,7 +20,7 @@
 
   ![image](https://github.com/user-attachments/assets/8a5fabf2-3806-42b4-a1f8-f3ea1ff3df6b)
   
-- Here I kept the changes from both the branches.
+- Here, the changes are from both branches.
   
   ![image](https://github.com/user-attachments/assets/a2091f72-1503-413d-a736-a71f7b4dce1f)
 
@@ -36,3 +36,6 @@
 
   ![image](https://github.com/user-attachments/assets/c61e6f48-e286-49bf-8e04-7a8c9081d978)
 
+- Puhsing the changes to github: `git push origin main`
+
+  ![image](https://github.com/user-attachments/assets/4bc63d9f-9fcd-4640-8529-964f959e3c03)

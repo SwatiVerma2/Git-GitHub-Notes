@@ -11,13 +11,14 @@
 2. Run git init: Initialize the Git repository: `git init`.
 3. Add Files and Make Initial Commit: After initializing, you can start adding files to the repository, stage them, and make your first commit:
    `git add .`
+   
    `git commit -m "Initial commit"`
-4. Create a new repo on github
-5. Run: `git remote add origin <- link ->`
+5. Create a new repo on github
+6. Run: `git remote add origin <- link ->`
    - The git remote add origin <url> command is used to link your local Git repository to a remote repository.
    - This allows you to push and pull changes between your local repository and the remote repository.
    - `git remote -v` : to verify remote
    - `git branch` : to check branch
-6. `git push origin main` 
+7. `git push origin main` 
 
    

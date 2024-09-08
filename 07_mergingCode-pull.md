@@ -3,7 +3,7 @@
 ## First way - Using command
 
 - To compare commits, branches, files & more): `git diff <branch-name>` 
-- To merge 2 branches: `git merge <branch-name>`  
+- To merge two branches: `git merge <branch-name>`  
 
 ## Second -  creating a PR on Github
 

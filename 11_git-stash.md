@@ -1,6 +1,4 @@
-# Other Commands
-
-## git stash
+# Git Stash
 The git stash command temporarily saves (or "stashes") the changes in your working directory without committing them, allowing you to switch branches or perform other tasks without losing your uncommitted work.
 
 ### How git stash works:
@@ -38,6 +36,5 @@ You're working on a feature but need to switch to another branch to fix a bug or
   ![image](https://github.com/user-attachments/assets/1aa61818-9a35-45ac-8298-91bce4adac9a)
 
 
-## git rebase
 
   

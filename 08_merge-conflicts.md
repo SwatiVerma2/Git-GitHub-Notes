@@ -39,3 +39,7 @@
 - Puhsing the changes to github: `git push origin main`
 
   ![image](https://github.com/user-attachments/assets/4bc63d9f-9fcd-4640-8529-964f959e3c03)
+
+  <img src="vk1.webp" alt="Virat Kohli GIF" width="300" style="float: left; margin-right: 20px;" />
+  
+**isko dekh kese reels scroll kr rha hai sath sath.**
